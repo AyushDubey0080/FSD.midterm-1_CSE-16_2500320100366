@@ -1,0 +1,13 @@
+{
+  "name": "fsd-mid-term-1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Express API for managing student records",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
